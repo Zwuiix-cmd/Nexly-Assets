@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "Texture pack for Nexly Plugin",
+    "min_engine_version": [
+      1,
+      26,
+      50
+    ],
+    "name": "Nexly",
+    "uuid": "e2e35355-5754-4bc4-b36e-d08865a00a41",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "d3a6e2d3-9c24-42f2-932e-a1800f937985",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
